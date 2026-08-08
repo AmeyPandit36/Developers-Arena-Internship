@@ -1,2 +1,0 @@
-# Week 1 - Python Basics
-# No external packages required
